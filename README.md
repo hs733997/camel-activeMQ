@@ -1,1 +1,2 @@
 # camel-activeMQ
+This project is a Java Spring Boot application that demonstrates integration with Apache ActiveMQ using Apache Camel. It showcases how to route, process, and manage messages between different endpoints with Camel routes, leveraging ActiveMQ as the message broker. The project uses Gradle for build automation and dependency management. Typical use cases include message-driven microservices, asynchronous processing, and enterprise integration patterns.
